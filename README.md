@@ -2,8 +2,8 @@
 CSC690 Homework #1
 
 # Created By
-Student Name: Dawi Ayele
-Student ID : 916677923
+###Student Name: Dawi Ayele
+###Student ID : 916677923
     
 
 
